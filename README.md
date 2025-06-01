@@ -3,6 +3,10 @@ ThePitMeltdown
 
 > 一个致力于添加更多功能的 [ThePitPremium](https://github.com/ThePitCommunity/ThePitPremium) 分支。
 
+## 本团队仅保证此项目的正常更新，如果你购买以下项目，均不保证其生命周期及售后：
+
+如果你想要获得持续性的内容与性能更新，你可以通过联系 3379591176 购买 ThePitUltimate。
+
 ## 如何使用 (服务器管理员)
 你可以从 [此处](https://github.com/AstralStudio/ThePitMeltdown/releases/latest) 下载 ThePitMeltdown 的最新构建版本。
 
@@ -12,8 +16,6 @@ ThePitMeltdown
 ThePitMeltdown-API:
 
 如果你要将 ThePitMeltdown 作为依赖,那么你必须进行 [自行构建](#构建此插件)。
-
-如果你想要获得持续性的内容与性能更新，你可以通过联系 3379591176 购买 ThePitUltimate。
 
 ## 构建此插件
 
